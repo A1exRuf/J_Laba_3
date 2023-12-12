@@ -44,7 +44,6 @@ public abstract class Animal implements Animals{
         this.name = name;
     }
 
-
     public void setKind(String kind) {
         this.kind = kind;
     }
